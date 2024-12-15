@@ -1,0 +1,4 @@
+CIC-IDS2017 : www.unb.ca/cic/datasets/ids-2017.html
+CIC-DDoS2019 : www.unb.ca/cic/datasets/ddos-2019.html
+CSE-CIC-IDS2018 : www.unb.ca/cic/datasets/ids-2018.html
+DoS dataset (application-layer) 2017: www.unb.ca/cic/datasets/dos-dataset.html
